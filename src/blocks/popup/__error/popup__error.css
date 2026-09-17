@@ -1,0 +1,15 @@
+.popup__error {
+  display: block;
+  min-height: 15px;
+  margin-top: 5px;
+  font-family: 'Inter', Arial, sans-serif;
+  font-size: 12px;
+  line-height: 15px;
+  color: #ff0000;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.popup__error_visible {
+  opacity: 1;
+}
