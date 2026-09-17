@@ -14,7 +14,7 @@
 
 ##  Команды
 
-- npm install     # установить зависимости
-- npm run dev     # запустить dev-сервер на http://localhost:8080
-- npm run build   # собрать прод-версию в папку dist/
-- npm run deploy  # собрать и задеплоить на GitHub Pages
+- npm install     - установить зависимости
+- npm run dev     - запустить dev-сервер на http://localhost:8080
+- npm run build   - собрать прод-версию в папку dist/
+- npm run deploy  - собрать и задеплоить на GitHub Pages
